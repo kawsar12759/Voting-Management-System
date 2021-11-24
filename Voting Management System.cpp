@@ -54,7 +54,7 @@ void pre(){
     cout << "\n\n\n\t\t        ==================================";
     cout << "\n\t\t\t     VOTING MANAGEMENT SYSTEM";
     cout << "\n\t\t        ==================================";
-    cout<<"\n\n\t\t\tEnter Total Number of Contestant: ";
+    cout<<"\n\n\t\t\tEnter total number of participants: ";
     cin>>n;
     cout<<"\t\t\tEnter Their Names\n";
     for(int i=1; i<=n; i++){
